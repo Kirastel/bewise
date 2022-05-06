@@ -1,3 +1,5 @@
+## Instructions for cloning and deploying a docker container
+
 Clone the repository: 
 ```
 git clone https://github.com/Kirastel/bewise.git && cd bewise
