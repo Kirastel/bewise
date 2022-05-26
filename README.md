@@ -15,7 +15,7 @@ source venv/bin/activate
 
 Create a image:
 ```
-docker buld .
+docker build .
 ```
 
 Build a new image and run two containers:
